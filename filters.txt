@@ -1,6 +1,6 @@
-[Adblock Plus 2.0]
-! Title: adblockph
+! Title: adblockph (AdGuard)
 ! Description: Ad-block filter list that blocks ads, annoyances, and trackers on Filipino and Tagalog websites.
+! Version: v0.1
 ! Last modified: September 23, 2026
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/braverug/adblockph/
