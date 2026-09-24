@@ -1,0 +1,12 @@
+[Adblock Plus 2.0]
+! Title: adblockph
+! Description: Ad-block filter list that blocks ads, annoyances, and trackers on Filipino and Tagalog websites.
+! Last modified: September 23, 2026
+! Expires: 7 days (update frequency)
+! Homepage: edit
+! License: edit
+!
+! Please report any unblocked adverts or problems:
+! GitHub issues: edit
+! GitHub pull requests: edit
+!
