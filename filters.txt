@@ -4,7 +4,7 @@
 ! Last modified: September 23, 2026
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/braverug/adblockph/
-! License: edit
+! License: TBA
 !
 ! Issues: https://github.com/braverug/adblockph/issues
 ! Pull Requests: https://github.com/braverug/adblockph/pulls
